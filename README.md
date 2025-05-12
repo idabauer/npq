@@ -5,7 +5,7 @@ R-Codefiles for "Distribution-free prediction intervals from interval score opti
 | Codefile | Description |
 |------------------------------------|------------------------------------|
 | `NPQ_Functions.R` | Functions to perform interval forecasting with mixed kernel quantile regression (is sourced in other files). |
-| `NPQ_Control.R` | File for performing the bandwidth training and creating test-forecasts for $IS$/$IS_c$ and for measuring the performance (is sourced for example computation). |
+| `NPQ_Control.R` | File for performing the bandwidth training and creating test-forecasts for $IS$ and $IS_c$ and for measuring the performance (is sourced for example computation). |
 | `NPQ_ControlMC.R` | like `NPQ_Control.R`, but tailored to Monte Carlo simulation (is sourced in Monte Carlo simulation). |
 | `NPQ_ComputeISS.R` | Function to perform $ISS$ estimation (is sourced in example computation). |
 | `NPQ_ComputeISSforMC.R` | Function to perform $ISS$ estimation (is sourced in Monte Carlo simulation). |
