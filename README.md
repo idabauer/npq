@@ -1,4 +1,4 @@
-# npq: Interval score optimized pairs of nonparametric regression quantiles
+# npq: Interval score optimised pairs of nonparametric regression quantiles
 
 R-Codefiles for "Distribution-free prediction intervals from interval score optimised pairs of nonparametric regression quantiles" from Harry Haupt, Joachim Schnurbus, and Ida Bauer.
 
